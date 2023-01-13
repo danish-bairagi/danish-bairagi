@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Javascript,JAVA 
 - 💞️ I’m looking to collaborate on developer 
 - 📫 How to reach me ... Contact me 📧danishbairagi6@gmail.com 
-- 
--
+
 
 <!---
 danish-bairagi/danish-bairagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
